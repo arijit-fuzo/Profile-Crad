@@ -1,2 +1,4 @@
 # Profile-Crad
-Profile Card using HTML &amp; CSS
+Profile Card using HTML & CSS
+Visit the link below:
+https://arijit-fuzo-profilecard.netlify.app/
